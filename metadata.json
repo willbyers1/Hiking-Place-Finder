@@ -1,0 +1,6 @@
+{
+  "name": "Hiking Trail Explorer",
+  "description": "Discover hiking trails, inspect route & weather, save favorites, record completed hikes, and track outdoor fitness progress.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
